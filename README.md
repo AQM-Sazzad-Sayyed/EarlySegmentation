@@ -4,6 +4,7 @@ This repository will explore the acceleration techniques for segmentation proble
 A. Early Exit
    The papers on Early Exit are as Follows:
    1. Multi-Exit Semantic Segmentation Networks (https://dl.acm.org/doi/10.1007/978-3-031-19803-8_20) - ECCV 2022
+   2. Semantic Segmentation by Early Region Proxy (https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Semantic_Segmentation_by_Early_Region_Proxy_CVPR_2022_paper.pdf) - CVPR 2022
  
 B. Pruning
 
